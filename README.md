@@ -59,8 +59,8 @@ I would use two-tailed hypotheses to describe both sides of the distribution and
 If my hypotheses and statistical test are both two-tailed, use the statistical test p-value as is.
 If my hypotheses are one-tailed, but our statistical test is two-tailed, I would divide the statistical test p-value by 2.
 
-Than If  calculated p-value is smaller than significance level, I would state that there is sufficient statistical evidence that null hypothesis is not true, and thereforereject  null hypothesis. Alternatively, if calculated p-value is larger than significance level, I would state that I do not have sufficient evidence to reject null hypothesis, and therefore fail to reject null hypothesis.
+Than If  calculated p-value is smaller than significance level, I would state that there is sufficient statistical evidence that null hypothesis is not true, and therefore reject  null hypothesis. Alternatively, if calculated p-value is larger than significance level, I would state that I do not have sufficient evidence to reject null hypothesis, and therefore fail to reject null hypothesis.
 
 What data is needed to run the statistical test?
 
-I need data that will be correct and represent the true real-world results. A direct relationship between weight and accidents would be a first step. To limit type I error (reject the null hypothesis when it is actually true) I would decrease the P to 0.1 as mentioned above and in order to limit tyoe 2 error (fail to reject the null hypothesis when it is actually false) I would add additional measurments such as terrain, weather or maintenance. 
+I need data that will be correct and represent the true real-world results. A direct relationship between weight and accidents would be a first step. To limit type I error (reject the null hypothesis when it is actually true) I would decrease the P to 0.1 as mentioned above and in order to limit type 2 error (fail to reject the null hypothesis when it is actually false) I would add additional measurments such as terrain, weather or maintenance. 
