@@ -3,7 +3,7 @@ Module 15
 
 ## Summary Statistics on Suspension Coils
 
--  Deliverable 1: Linear Regression to Predict MPG
+-  # Deliverable 1: Linear Regression to Predict MPG
 
 ![Linear Regressions](https://github.com/klaudio07/MechaCar_Statistical_Analysis/blob/master/Deliverable%201%20photo%20of%20statists.jpg)
 
@@ -11,4 +11,22 @@ Module 15
 
 From our linear regression model, the r-squared value is 0.68, which means that roughly 68% of all predictions will be correct when using this linear model. 
 
--  Deliverable 2: Create Visualizations for the Trip Analysis
+In addition, the p-value of our linear regression analysis is p-value: 6.712e-11, which is much smaller than our assumed significance level of 0.05%. Therefore, we can state that there is sufficient evidence to reject our null hypothesis, which means that the slope of our linear model is not zero.
+
+## Summary Statistics on Suspension
+
+-  # Deliverable 2: Create Visualizations for the Trip Analysis
+
+![Summary Table](https://github.com/klaudio07/MechaCar_Statistical_Analysis/blob/master/Deliverable%202%20summary%20table.png)
+
+![Lot Summary](https://github.com/klaudio07/MechaCar_Statistical_Analysis/blob/master/Deliverable%202%20lot%20summary%20table.png)
+
+Using our visualization in combination with our calculated p-value and r-squared value, we have determined that there is a significant relationship between ground_clearance and mpg.
+
+R-squared:  0.7119,	Adjusted R-squared:  0.6791 suggest a strong correlation and the P-value significantly lower than 0.05, suggest strong correlation and prediction as expalined in more detail in Deliverable 1.
+
+## T-Tests on Suspension Coils
+
+-  # Deliverable 3: T-Tests on Suspension Coils
+
+
