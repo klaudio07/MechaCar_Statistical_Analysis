@@ -29,4 +29,15 @@ R-squared:  0.7119,	Adjusted R-squared:  0.6791 suggest a strong correlation and
 
 -  # Deliverable 3: T-Tests on Suspension Coils
 
+![Deliverable 3](https://github.com/klaudio07/MechaCar_Statistical_Analysis/blob/master/Deliverable%203.png)
+
+PSi distribution is normal since P-value is way less than 0.05
+
+Our significance level was the common 0.05 percent, our p-value is above our significance level. Therefore, we do not have sufficient evidence to reject the null hypothesis, and we would state that the two means are statistically similar.
+
+## Study Design: MechaCar vs Competition
+
+- # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
+
+
 
