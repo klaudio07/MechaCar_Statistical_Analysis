@@ -39,5 +39,28 @@ Our significance level was the common 0.05 percent, our p-value is above our sig
 
 - # Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
+What metric or metrics are you going to test?
 
+I would test vehicle weight with the safety rating. I belive that safety would be a competitive advantage.
 
+What is the null hypothesis or alternative hypothesis?
+
+Null hypothesis represents the scenario that our results can be explained by random chance without any outside influence. In contrast, our alternate hypothesis represents any other scenario that our results could yield.
+
+H0 : PH = 0.1 (High)
+Ha : PH ≠ 0.1 (High)
+
+Where PH represents the probability of safety rating to vehicle weight.
+
+What statistical test would you use to test the hypothesis? And why?
+
+I would use two-tailed hypotheses to describe both sides of the distribution and use descriptions such as "equal to" or "not equal to."
+
+If my hypotheses and statistical test are both two-tailed, use the statistical test p-value as is.
+If my hypotheses are one-tailed, but our statistical test is two-tailed, I would divide the statistical test p-value by 2.
+
+Than If  calculated p-value is smaller than significance level, I would state that there is sufficient statistical evidence that null hypothesis is not true, and thereforereject  null hypothesis. Alternatively, if calculated p-value is larger than significance level, I would state that I do not have sufficient evidence to reject null hypothesis, and therefore fail to reject null hypothesis.
+
+What data is needed to run the statistical test?
+
+I need data that will be correct and represent the true real-world results. A direct relationship between weight and accidents would be a first step. To limit type I error (reject the null hypothesis when it is actually true) I would decrease the P to 0.1 as mentioned above and in order to limit tyoe 2 error (fail to reject the null hypothesis when it is actually false) I would add additional measurments such as terrain, weather or maintenance. 
